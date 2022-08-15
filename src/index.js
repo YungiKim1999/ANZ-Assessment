@@ -1,6 +1,9 @@
 import checkInputs from "./utils/inputChecker.js";
 import OverdraftCalculator from "./OverdraftCalculator/OverdraftCalculator.js";
 
+/**
+ * Gets the arguments from the command line
+ */
 const accountBalance = process.argv[2];
 const totalSpending = process.argv[3];
 const creditLimit = process.argv[4];

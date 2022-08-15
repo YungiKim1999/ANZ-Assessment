@@ -52,7 +52,7 @@ In order to complete this coding challenge, a few assumptions had to be made:
 - To calculate interest, the calculator follows the way in which the ANZ Overdraft Website (https://www.anz.co.nz/personal/accounts/everyday-banking/overdraft/) shows.
 - The coding challenge assumes that NZD (New Zealand Dollar) will be the only currency input into the calculator.
 - The coding challenge assumes that simple interest is charged based on the excess amount once at the end of the month (i.e it is okay to not calculate daily).
-- The calculator design assumes that the calculator can act like a singleton class within the code, within in the backend of the application.
+- The calculator design assumes that the calculator can act like a singleton class within the code, within in the backend/frontend of the application.
 - The coding challenge assumes that  information such as the overdraft base rate, assigned rate, management fee, unarranged overdraft fee, and excess interest rate can be obtained from the database
 
 
